@@ -1,6 +1,6 @@
 Exploring Hack The Box - A Resource for Aspiring Penetration Testers and Continuous Learners
 
-Hack The Box, undoubtedly one of the foremost platforms for honing your skills, can prove to be a challenging playground for beginners. As an educator and enthusiast of cybersecurity, my mission is to facilitate your journey by imparting valuable insights and comprehensive guidance.
+Hack The Box, undoubtedly one of the foremost platforms for honing your skills, can prove to be a challenging playground for beginners. My mission is to facilitate your journey by imparting valuable insights and comprehensive guidance.
 
 Embrace the Difficulty: Your Path to Mastery
 
